@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ayulol/Atmfarm/refs/heads/main/atmfarm.lua"))()
